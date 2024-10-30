@@ -52,10 +52,10 @@ Algorithmic Geometry is a tool designed to:
 
 ## Future Development  
 Some potential future features include:  
-- Adding more algorithms (Voronoi diagrams, triangulations, etc.).
+- Adding more algorithms.
 - Improved visualization capabilities.
-- Additional user inputs and customizable parameters.  
-## Acknowledgements
-Instructor: [Instructor's Name]
-Course: [Course Name, e.g., "Computational Geometry"]
-Special thanks to classmates and project collaborators.
+- Additional user inputs and customizable parameters.
+
+## Acknowledgements  
+- Instructor: Conf.univ.dr. Bobe Alexandru   
+- Course: "Computational Geometry" 
