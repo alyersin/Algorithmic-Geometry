@@ -1,6 +1,6 @@
 # Algorithmic Geometry
 
-This project is a C# desktop application developed as part of Computer Science studies at "Ovidius" University of Constanța, focusing on exploring algorithmic approaches to geometric problems.
+This project is a C# desktop application developed as part of Computer Science studies at "Ovidius" University of Constanta, focusing on exploring algorithmic approaches to geometric problems.
 
 ## Table of Contents
 
