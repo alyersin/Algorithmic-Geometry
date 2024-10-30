@@ -4,7 +4,7 @@ This project is a C# application developed as part of Computer Science studies a
 
 ## Table of Contents
 
-- [About the project](#About the Project)  
+- [About the project](#About-the-Project)  
 - Features  
 - Installation  
 - Usage  
