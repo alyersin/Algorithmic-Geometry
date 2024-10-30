@@ -1,8 +1,8 @@
-**Algorithmic Geometry**
+# Algorithmic Geometry
 
-This project is a C# application developed as part of university studies at "Ovidius" University of Constanța, focusing on exploring algorithmic approaches to geometric problems. This app demonstrates concepts and techniques learned in our coursework.
+This project is a C# application developed as part of university studies at "Ovidius" University of Constanța, focusing on exploring algorithmic approaches to geometric problems.
 
-**Table of Contents**
+# Table of Contents
 
 About the Project
 Features
