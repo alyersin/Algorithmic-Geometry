@@ -27,23 +27,23 @@ Algorithmic Geometry is a tool designed to:
 
 ## Installation  
 1. Clone the Repository:
-
-- git clone https://github.com/alyersin/Algorithmic-Geometry.git
-- cd Algorithmic-Geometry
-
+```
+   git clone https://github.com/alyersin/Algorithmic-Geometry.git
+   cd Algorithmic-Geometry
+```
 2. Open the Project:
 
 - Open the project in Visual Studio or your preferred C# IDE.  
 
 3. Build and Run:
 
-Build the project and start the application to begin exploring the features.  
+- Build the project and start the application to begin exploring the features.  
 
 ## Usage  
-Launch the application.
-Select a geometric problem to explore (e.g., Convex Hull).
-Follow on-screen instructions to input data or view algorithm steps.
-Observe the results and visualizations to understand how the algorithm works.  
+1. Launch the application.
+2. Select a geometric problem to explore (e.g., Convex Hull).
+3. Follow on-screen instructions to input data or view algorithm steps.
+4. Observe the results and visualizations to understand how the algorithm works.  
 
 ## Technologies Used
 - C#
@@ -51,12 +51,11 @@ Observe the results and visualizations to understand how the algorithm works.
 - Visual Studio
 
 ## Future Development  
-Some potential future features include:
-
-Adding more algorithms (Voronoi diagrams, triangulations, etc.).
-Improved visualization capabilities.
-Additional user inputs and customizable parameters.
-Acknowledgements
+Some potential future features include:  
+- Adding more algorithms (Voronoi diagrams, triangulations, etc.).
+- Improved visualization capabilities.
+- Additional user inputs and customizable parameters.  
+## Acknowledgements
 Instructor: [Instructor's Name]
 Course: [Course Name, e.g., "Computational Geometry"]
 Special thanks to classmates and project collaborators.
