@@ -1,0 +1,15 @@
+C:\Users\alyer\source\repos\ComputationalGeometry\bin\Debug\ComputationalGeometry.exe.config
+C:\Users\alyer\source\repos\ComputationalGeometry\bin\Debug\ComputationalGeometry.exe
+C:\Users\alyer\source\repos\ComputationalGeometry\bin\Debug\ComputationalGeometry.pdb
+C:\Users\alyer\source\repos\ComputationalGeometry\obj\Debug\ComputationalGeometry.csproj.AssemblyReference.cache
+C:\Users\alyer\source\repos\ComputationalGeometry\obj\Debug\MainWindow.g.cs
+C:\Users\alyer\source\repos\ComputationalGeometry\obj\Debug\App.g.cs
+C:\Users\alyer\source\repos\ComputationalGeometry\obj\Debug\ComputationalGeometry_MarkupCompile.cache
+C:\Users\alyer\source\repos\ComputationalGeometry\obj\Debug\ComputationalGeometry_MarkupCompile.lref
+C:\Users\alyer\source\repos\ComputationalGeometry\obj\Debug\MainWindow.baml
+C:\Users\alyer\source\repos\ComputationalGeometry\obj\Debug\ComputationalGeometry.g.resources
+C:\Users\alyer\source\repos\ComputationalGeometry\obj\Debug\ComputationalGeometry.Properties.Resources.resources
+C:\Users\alyer\source\repos\ComputationalGeometry\obj\Debug\ComputationalGeometry.csproj.GenerateResource.cache
+C:\Users\alyer\source\repos\ComputationalGeometry\obj\Debug\ComputationalGeometry.csproj.CoreCompileInputs.cache
+C:\Users\alyer\source\repos\ComputationalGeometry\obj\Debug\ComputationalGeometry.exe
+C:\Users\alyer\source\repos\ComputationalGeometry\obj\Debug\ComputationalGeometry.pdb
