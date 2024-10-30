@@ -1,25 +1,25 @@
 # Algorithmic Geometry
 
-This project is a C# application developed as part of university studies at "Ovidius" University of Constanța, focusing on exploring algorithmic approaches to geometric problems.
+This project is a C# application developed as part of Computer Science studies at "Ovidius" University of Constanța, focusing on exploring algorithmic approaches to geometric problems.
 
-# Table of Contents
+## Table of Contents
 
-About the Project
-Features
-Installation
-Usage
-Technologies Used
-Future Development
-Acknowledgements
-About the Project
+About the Project  
+Features  
+Installation  
+Usage  
+Technologies Used  
+Future Development  
+Acknowledgements  
+
+## About the Project  
 Algorithmic Geometry is a tool designed to:
 
-Analyze and visualize geometric algorithms.
-Solve common geometric problems (e.g., convex hulls, point-in-polygon checks, etc.).
-Provide an interactive learning tool for students interested in computational geometry.
-This project aims to deepen understanding in the field of computational geometry by offering hands-on experience with classic algorithms and geometric calculations.
+Analyze and visualize geometric algorithms.  
+Solve common geometric problems (e.g., convex hulls, point-in-polygon checks, etc.).  
+Provide an interactive learning tool for students interested in computational geometry.  
 
-Features
+## Features
 Interactive Visualizations: Displays algorithm steps and outputs for better understanding.
 Geometric Computations: Performs calculations like distance measurements, convex hulls, etc.
 User-Friendly Interface: Simple UI to interact with geometric shapes and algorithms.
