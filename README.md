@@ -5,12 +5,12 @@ This project is a C# application developed as part of Computer Science studies a
 ## Table of Contents
 
 - [About the project](#About-the-Project)  
-- Features  
-- Installation  
-- Usage  
-- Technologies Used  
-- Future Development  
-- Acknowledgements  
+- [Features](#Features)  
+- [Installation](#Installation)  
+- [Usage](#Usage)  
+- [Technologies Used](#Technologies-Used)  
+- [Future Development](#Future-Development)  
+- [Acknowledgements](#Acknowledgements)  
 
 ## About the Project  
 Algorithmic Geometry is a tool designed to:
