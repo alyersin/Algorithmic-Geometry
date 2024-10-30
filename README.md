@@ -13,7 +13,7 @@ This project is a C# desktop application developed as part of Computer Science s
 - [Acknowledgements](#Acknowledgements)  
 
 ## About the Project  
-Algorithmic Geometry is a tool designed to:
+Algorithmic Geometry app is a tool designed to:
 
 - Analyze and visualize geometric algorithms.  
 - Solve common geometric problems (e.g., convex hulls, point-in-polygon checks, etc.).  
